@@ -4,6 +4,7 @@
 // @version      1.2
 // @description  Adds Copy, Google search, and Steam search buttons next to game/book titles. Google search is optimized for Books (Title BY Author).
 // @author       mcbyte
+// @license      GPL-2.0
 // @match        *://www.humblebundle.com/games/*
 // @match        *://www.humblebundle.com/books/*
 // @match        *://www.humblebundle.com/software/*
