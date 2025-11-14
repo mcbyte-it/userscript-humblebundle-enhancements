@@ -7,6 +7,8 @@
 // @match        *://www.humblebundle.com/games/*
 // @match        *://www.humblebundle.com/books/*
 // @match        *://www.humblebundle.com/software/*
+// @downloadURL  https://raw.githubusercontent.com/mcbyte-it/userscript-humblebundle-enhancements/main/humblebundle-search-buttons.user.js
+// @updateURL    https://raw.githubusercontent.com/mcbyte-it/userscript-humblebundle-enhancements/main/humblebundle-search-buttons.user.js
 // @grant        none
 // ==/UserScript==
 
